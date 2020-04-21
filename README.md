@@ -1,3 +1,6 @@
+
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Technoligies used in this project:
 React
 Jquery
@@ -8,9 +11,6 @@ Json
 SQL
 PHP
 JSX
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
