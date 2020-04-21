@@ -1,3 +1,14 @@
+Technoligies used in this project:
+React
+Jquery
+JavaScript
+Bootstrap
+[ReactStrap](https://reactstrap.github.io/)
+Json
+SQL
+PHP
+JSX
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
