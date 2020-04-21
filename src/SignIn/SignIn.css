@@ -1,0 +1,32 @@
+.signInForm{
+    position: relative;
+    top: 80px;
+    border-radius: 26px 26px 26px 26px;
+    -moz-border-radius: 26px 26px 26px 26px;
+    -webkit-border-radius: 26px 26px 26px 26px;
+    border: 2px solid #000000;}
+#h3{
+    position: relative;
+    left: 60px;
+}
+
+#error_email,#error_password{
+    font-size: 11px;
+    color: red;
+    height: 7px;
+}
+
+#submitButton{
+    position: relative;
+    bottom: 30px;
+}
+#p{
+    position: relative;
+    left: 30px;
+    top: 10px;
+}
+#link_signIn{
+    position: relative;
+    left: 160px;
+    bottom: 47px;
+}

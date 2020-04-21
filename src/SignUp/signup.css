@@ -1,0 +1,28 @@
+#signUpForm{
+    position: relative;
+    top: 70px;
+ 
+    border-radius: 25px 25px 25px 25px;
+    -moz-border-radius: 25px 25px 25p x 25px;
+    -webkit-border-radius: 25px 25px 25px 25px;
+    border: 1px solid #000000;
+    }
+    #error_family_name,#error_family_name,#email_error,#error_password{
+        font-size: 11px;
+        color: red;
+        height: 7px;
+    }
+    #link_signUp{
+        position: relative;
+        left: 175px;
+        bottom: 33px;
+    
+    }
+    .btnSubmit{
+        position: relative;
+        bottom: 25px;
+    }
+    #pe{
+        position: relative;
+        left: 15px;
+    }
