@@ -1,16 +1,16 @@
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-###Technoligies used in this project:
-###React
-###Jquery
-###JavaScript
-###Bootstrap
-###[ReactStrap](https://reactstrap.github.io/)
-###Json
-###SQL
-###PHP
-###JSX
+###  `Technoligies used in this project`:
+###  `React`
+###  `Jquery`
+###  `JavaScript`
+###  `Bootstrap`
+###  `[ReactStrap](https://reactstrap.github.io/)`
+###  `Json`
+###  `SQL`
+###  `PHP`
+###  `JSX`
 ## Available Scripts
 
 In the project directory, you can run:
